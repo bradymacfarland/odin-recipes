@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes Website for Odin Project
+Recipes Website for The Odin Project HTML Unit
